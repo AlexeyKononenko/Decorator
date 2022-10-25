@@ -1,0 +1,4 @@
+Дата/время: 2022-10-25 21:30:50.218995
+Имя функции: average_all_student
+Аргументы: (([<__main__.Student object at 0x000001FD7D346C80>, <__main__.Student object at 0x000001FD7D346CB0>], 'Python'), {})
+Результат: 8.0
